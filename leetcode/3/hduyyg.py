@@ -1,5 +1,6 @@
 # author:2632158294@qq.com
 # github:pyCN/algorithm/leetcode/3
+# time: O(n)
 
 class Solution:
     def lengthOfLongestSubstring(self, s):
