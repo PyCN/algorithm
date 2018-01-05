@@ -1,11 +1,14 @@
+# author:2632158294@qq.com
+# github:pyCN/algorithm/leetcode/2
+# time: O(n)
+
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
-# author:2632158294@qq.com
-# github:pyCN/algorithm/leetcode/2
 class Solution:
     def addTwoNumbers(self, l1, l2):
         """
