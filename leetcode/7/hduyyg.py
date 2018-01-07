@@ -7,7 +7,6 @@ class Solution:
         :type x: int
         :rtype: int
         """
-        INT_MAX = 2147483648
         res, sign = 0, 1
         if x < 0: x, sign = -x, -1
         while x != 0:
