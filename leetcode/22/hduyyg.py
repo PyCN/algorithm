@@ -36,6 +36,3 @@ class Solution:
         res = 1
         for i in range(2, n + 1): res = res * (4 * i -2) // (i + 1)
         return res
-
-res = Solution().generateParenthesis(1)
-print(res)
