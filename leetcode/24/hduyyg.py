@@ -1,5 +1,5 @@
 # author:2632158294@qq.com
-# github:https://github.com/PyCN/algorithm/tree/master/leetcode/23
+# github:https://github.com/PyCN/algorithm/tree/master/leetcode/24
 # time: O(n)
 
 # Definition for singly-linked list.
