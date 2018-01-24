@@ -1,6 +1,6 @@
 # author:2632158294@qq.com
 # github:https://github.com/PyCN/algorithm/tree/master/leetcode/34
-# time: O(n)
+# time: O(logn)
 
 class Solution:
     def searchRange(self, nums, target):
