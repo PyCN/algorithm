@@ -1,6 +1,6 @@
 # author:2632158294@qq.com
 # github:https://github.com/PyCN/algorithm/tree/master/leetcode/121
-# time: O(n^2)
+# time: O(n)
 
 class Solution:
     def maxProfit(self, prices):
