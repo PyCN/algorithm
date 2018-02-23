@@ -1,5 +1,5 @@
 # author:2632158294@qq.com
-# github:https://github.com/PyCN/algorithm/tree/master/leetcode/189
+# github:https://github.com/PyCN/algorithm/tree/master/leetcode/190
 # time: O(1)
 
 class Solution:
