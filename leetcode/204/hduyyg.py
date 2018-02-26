@@ -1,5 +1,5 @@
 # author:2632158294@qq.com
-# github:https://github.com/PyCN/algorithm/tree/master/leetcode/278
+# github:https://github.com/PyCN/algorithm/tree/master/leetcode/204
 
 import math
 
